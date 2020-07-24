@@ -1,0 +1,1217 @@
+﻿Log file open, 07/24/20 10:57:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: DataViz
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.099218
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-9800X CPU @ 3.80GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.24-17.57.31:039][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.24-17.57.31:039][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.24-17.57.31:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Engine.ini]
+[2020.07.24-17.57.31:039][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.24-17.57.31:039][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.07.24-17.57.31:039][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.07.24-17.57.31:039][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.07.24-17.57.31:039][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.07.24-17.57.31:039][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.07.24-17.57.31:039][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.07.24-17.57.31:039][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Engine.ini]
+[2020.07.24-17.57.31:040][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Engine.ini]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Engine.ini]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.24-17.57.31:040][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Engine.ini]
+[2020.07.24-17.57.31:040][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Engine.ini]
+[2020.07.24-17.57.31:042][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Scalability.ini]
+[2020.07.24-17.57.31:042][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.24-17.57.31:042][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.24-17.57.31:042][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Scalability.ini]
+[2020.07.24-17.57.31:042][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.07.24-17.57.31:042][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Scalability.ini]
+[2020.07.24-17.57.31:042][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.24-17.57.31:042][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.24-17.57.31:042][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.24-17.57.31:042][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.24-17.57.31:042][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.24-17.57.31:042][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Scalability.ini]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Scalability.ini]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Scalability.ini]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.24-17.57.31:043][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Scalability.ini]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Scalability.ini]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.24-17.57.31:044][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.24-17.57.31:044][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.24-17.57.31:044][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.24-17.57.31:047][  0]LogHAL: Display: Platform has ~ 32 GB [34043756544 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.24-17.57.31:047][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.24-17.57.31:047][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Scalability.ini]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Scalability.ini]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Scalability.ini]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Scalability.ini]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Scalability.ini]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Scalability.ini]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.07.24-17.57.31:047][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Scalability.ini]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Scalability.ini]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.24-17.57.31:048][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Config/Windows/Engine.ini]
+[2020.07.24-17.57.31:048][  0]LogInit: Computer: VAR106
+[2020.07.24-17.57.31:048][  0]LogInit: User: Student
+[2020.07.24-17.57.31:048][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.07.24-17.57.31:048][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.24-17.57.31:048][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2020.07.24-17.57.31:048][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.24-17.57.31:048][  0]LogMemory: Process Physical Memory: 112.68 MB used, 112.69 MB peak
+[2020.07.24-17.57.31:048][  0]LogMemory: Process Virtual Memory: 108.91 MB used, 108.91 MB peak
+[2020.07.24-17.57.31:048][  0]LogMemory: Physical Memory: 9826.77 MB used,  22639.88 MB free, 32466.66 MB total
+[2020.07.24-17.57.31:048][  0]LogMemory: Virtual Memory: 5228.41 MB used,  134212496.00 MB free, 134217728.00 MB total
+[2020.07.24-17.57.31:051][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.24-17.57.31:073][  0]LogInit: Using OS detected language (en-US).
+[2020.07.24-17.57.31:073][  0]LogInit: Using OS detected locale (en-US).
+[2020.07.24-17.57.31:073][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.07.24-17.57.31:328][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.24-17.57.31:361][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.24-17.57.31:361][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.24-17.57.31:493][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.07.24-17.57.31:493][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.07.24-17.57.31:493][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.24-17.57.31:600][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2020.07.24-17.57.31:600][  0]LogD3D11RHI:       8010/0/16233 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.07.24-17.57.31:604][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.24-17.57.31:604][  0]LogD3D11RHI:       0/0/16233 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.24-17.57.31:604][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.24-17.57.31:614][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.24-17.57.31:614][  0]LogD3D11RHI:     GPU DeviceId: 0x1e82 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.24-17.57.31:614][  0]LogWindows: EnumDisplayDevices:
+[2020.07.24-17.57.31:615][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2020.07.24-17.57.31:615][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2020.07.24-17.57.31:615][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2020.07.24-17.57.31:615][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2020.07.24-17.57.31:616][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.07.24-17.57.31:616][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2020.07.24-17.57.31:616][  0]LogD3D11RHI:   Driver Version: 446.14 (internal:26.21.14.4614, unified:446.14)
+[2020.07.24-17.57.31:616][  0]LogD3D11RHI:      Driver Date: 5-15-2020
+[2020.07.24-17.57.31:616][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2020.07.24-17.57.31:697][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.07.24-17.57.31:697][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.24-17.57.31:716][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.07.24-17.57.32:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.07.24-17.57.32:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.07.24-17.57.32:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.07.24-17.57.32:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.07.24-17.57.32:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.07.24-17.57.32:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.07.24-17.57.32:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.07.24-17.57.32:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.07.24-17.57.32:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.07.24-17.57.32:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.07.24-17.57.32:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.24-17.57.32:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.07.24-17.57.32:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.07.24-17.57.32:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.07.24-17.57.32:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.07.24-17.57.32:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.24-17.57.32:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.07.24-17.57.32:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.07.24-17.57.32:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.07.24-17.57.32:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.07.24-17.57.32:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.07.24-17.57.32:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.24-17.57.32:109][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.07.24-17.57.32:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.07.24-17.57.32:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.07.24-17.57.32:136][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.07.24-17.57.32:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.07.24-17.57.32:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.07.24-17.57.32:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.07.24-17.57.32:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.07.24-17.57.32:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.07.24-17.57.32:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.24-17.57.32:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.07.24-17.57.32:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.07.24-17.57.32:228][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.07.24-17.57.32:228][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.24-17.57.32:231][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.24-17.57.32:257][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/Student/Documents/GitHub/DataViz/DataViz/Intermediate/Shaders/WorkingDirectory/7260/).
+[2020.07.24-17.57.32:258][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Student/AppData/Local/Temp/UnrealShaderWorkingDir/C90AC40F4651971706C60A991D5986C4/'.
+[2020.07.24-17.57.32:258][  0]LogXGEController: Cleaning working directory: C:/Users/Student/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.07.24-17.57.32:258][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.24-17.57.32:258][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.24-17.57.32:258][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.24-17.57.33:046][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.24-17.57.33:124][  0]LogDerivedDataCache: Loaded boot cache 0.08s 94MB C:/Users/Student/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.07.24-17.57.33:124][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Student/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.07.24-17.57.33:124][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Student/Documents/GitHub/DataViz/DataViz/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.24-17.57.33:124][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.24-17.57.33:124][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Student/Documents/GitHub/DataViz/DataViz/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.24-17.57.33:124][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.24-17.57.33:134][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.24-17.57.33:134][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.24-17.57.33:134][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.24-17.57.33:136][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.24-17.57.33:136][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.24-17.57.33:136][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.24-17.57.33:167][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.07.24-17.57.33:170][  0]LogSlate: Using FreeType 2.10.0
+[2020.07.24-17.57.33:170][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.24-17.57.33:218][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2020.07.24-17.57.33:566][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.24-17.57.33:743][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.24-17.57.33:744][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.24-17.57.33:744][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.24-17.57.33:744][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.24-17.57.33:744][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.24-17.57.33:756][  0]LogNetVersion: DataViz 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 804735717)
+[2020.07.24-17.57.34:752][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.051934 seconds
+[2020.07.24-17.57.34:761][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.07.24-17.57.34:761][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.07.24-17.57.34:761][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.24-17.57.35:172][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.24-17.57.35:175][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.24-17.57.35:231][  0]SourceControl: Source control is disabled
+[2020.07.24-17.57.35:231][  0]SourceControl: Source control is disabled
+[2020.07.24-17.57.35:233][  0]SourceControl: Source control is disabled
+[2020.07.24-17.57.35:234][  0]SourceControl: Source control is disabled
+[2020.07.24-17.57.35:235][  0]SourceControl: Source control is disabled
+[2020.07.24-17.57.35:324][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.24-17.57.35:338][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.24-17.57.35:338][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.24-17.57.35:428][  0]LogOcInput: OculusInput pre-init called
+[2020.07.24-17.57.36:008][  0]LogEngine: Initializing Engine...
+[2020.07.24-17.57.36:009][  0]LogHMD: Oculus plugin initialized. Version: 4.24.3-11590370+++UE4+Release-4.24, OVRPlugin: 1.40.0
+[2020.07.24-17.57.36:010][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.07.24-17.57.36:088][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2020.07.24-17.57.36:408][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2020.07.24-17.57.36:514][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 707
+[2020.07.24-17.57.36:514][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 697
+[2020.07.24-17.57.36:514][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 687
+[2020.07.24-17.57.36:514][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 677
+[2020.07.24-17.57.36:514][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 667
+[2020.07.24-17.57.36:514][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 657
+[2020.07.24-17.57.36:514][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 647
+[2020.07.24-17.57.36:514][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 637
+[2020.07.24-17.57.36:514][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 627
+[2020.07.24-17.57.36:514][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 617
+[2020.07.24-17.57.36:514][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 607
+[2020.07.24-17.57.36:514][  0]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 597
+[2020.07.24-17.57.36:514][  0]LogShaderCompilers: Display: Worker (13/13): shaders left to compile 587
+[2020.07.24-17.57.36:514][  0]LogMaterial: Display: Missing cached shader map for material VertexColorMaterial, compiling. 
+[2020.07.24-17.57.36:588][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling. 
+[2020.07.24-17.57.36:618][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling. 
+[2020.07.24-17.57.36:643][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling. 
+[2020.07.24-17.57.36:672][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling. 
+[2020.07.24-17.57.36:696][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling. 
+[2020.07.24-17.57.36:718][  0]LogMaterial: Display: Missing cached shader map for material RemoveSurfaceMaterial, compiling. 
+[2020.07.24-17.57.36:742][  0]LogMaterial: Display: Missing cached shader map for material HairDefaultMaterial, compiling. Is special engine material.
+[2020.07.24-17.57.37:102][  0]LogMaterial: Display: Missing cached shader map for material DebugMeshMaterial, compiling. 
+[2020.07.24-17.57.37:139][  0]LogMaterial: Display: Missing cached shader map for material EmissiveMeshMaterial, compiling. 
+[2020.07.24-17.57.37:168][  0]LogMaterial: Display: Missing cached shader map for material M_InvalidLightmapSettings, compiling. 
+[2020.07.24-17.57.37:211][  0]LogMaterial: Display: Missing cached shader map for material GizmoMaterial, compiling. 
+[2020.07.24-17.57.37:233][  0]LogMaterial: Display: Missing cached shader map for material PhAT_JointLimitMaterial, compiling. 
+[2020.07.24-17.57.37:254][  0]LogMaterial: Display: Missing cached shader map for material GeomMaterial, compiling. 
+[2020.07.24-17.57.37:270][  0]LogMaterial: Display: Missing cached shader map for material EditorBrushMaterial, compiling. 
+[2020.07.24-17.57.37:290][  0]LogMaterial: Display: Missing cached shader map for material BoneWeightMaterial, compiling. 
+[2020.07.24-17.57.37:348][  0]LogMaterial: Display: Missing cached shader map for material ClothMaterial, compiling. 
+[2020.07.24-17.57.37:368][  0]LogMaterial: Display: Missing cached shader map for material ClothMaterial_WF, compiling. 
+[2020.07.24-17.57.37:392][  0]LogMaterial: Display: Missing cached shader map for material DebugEditorMaterial, compiling. 
+[2020.07.24-17.57.37:414][  0]LogMaterial: Display: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2020.07.24-17.57.37:492][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.24-17.57.37:505][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.24-17.57.37:523][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.24-17.57.37:524][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.24-17.57.37:524][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.24-17.57.37:524][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.24-17.57.37:524][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.24-17.57.37:524][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.24-17.57.37:524][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.24-17.57.37:524][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.24-17.57.37:525][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.24-17.57.37:525][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.24-17.57.37:551][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.24-17.57.37:551][  0]LogAudioMixer: Display: Name: Headphones (Oculus Virtual Audio Device)
+[2020.07.24-17.57.37:551][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.07.24-17.57.37:551][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.24-17.57.37:551][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.24-17.57.37:551][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.24-17.57.37:551][  0]LogAudioMixer: Display: Channel Order:
+[2020.07.24-17.57.37:551][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.24-17.57.37:551][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.07.24-17.57.37:583][  0]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2020.07.24-17.57.37:590][  0]LogInit: FAudioDevice initialized.
+[2020.07.24-17.57.37:590][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.24-17.57.37:868][  0]LogDerivedDataCache: Saved boot cache 0.28s 98MB C:/Users/Student/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.07.24-17.57.37:878][  0]LogInit: Texture streaming: Enabled
+[2020.07.24-17.57.37:899][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.24-17.57.37:899][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={13503280-4EDC-15E2-A6FF-99A54DD3B41E}
+[2020.07.24-17.57.37:900][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.07.24-17.57.37:901][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.07.24-17.57.38:000][  0]LogInit: Transaction tracking system initialized
+[2020.07.24-17.57.38:016][  0]BlueprintLog: New page: Editor Load
+[2020.07.24-17.57.38:065][  0]LocalizationService: Localization service is disabled
+[2020.07.24-17.57.38:167][  0]LogMaterial: Display: Missing cached shader map for material Cross_Mat, compiling. 
+[2020.07.24-17.57.38:187][  0]LogMaterial: Display: Missing cached shader map for material PhAT_BoneSelectedMaterial, compiling. 
+[2020.07.24-17.57.38:206][  0]LogMaterial: Display: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2020.07.24-17.57.38:229][  0]LogMaterial: Display: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2020.07.24-17.57.38:250][  0]LogMaterial: Display: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
+[2020.07.24-17.57.38:272][  0]LogMaterial: Display: Missing cached shader map for material Tick_Mat, compiling. 
+[2020.07.24-17.57.38:297][  0]LogMaterial: Display: Missing cached shader map for material WidgetGridVertexColorMaterial_Ma, compiling. 
+[2020.07.24-17.57.38:315][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial, compiling. 
+[2020.07.24-17.57.38:336][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_Current, compiling. 
+[2020.07.24-17.57.38:354][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_X, compiling. 
+[2020.07.24-17.57.38:370][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_Y, compiling. 
+[2020.07.24-17.57.38:387][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_Z, compiling. 
+[2020.07.24-17.57.38:403][  0]LogMaterial: Display: Missing cached shader map for material WidgetVertexColorMaterial, compiling. 
+[2020.07.24-17.57.38:445][  0]LogMaterial: Display: Missing cached shader map for material LevelGridMaterial, compiling. 
+[2020.07.24-17.57.38:487][  0]LogMaterial: Display: Missing cached shader map for material BlinkingCaret, compiling. 
+[2020.07.24-17.57.38:517][  0]LogMaterial: Display: Missing cached shader map for material M_StreamingPause, compiling. 
+[2020.07.24-17.57.38:571][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Documents/GitHub/DataViz/DataViz/Content/' took 0.02s
+[2020.07.24-17.57.38:571][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.24-17.57.38:572][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.24-17.57.39:416][  0]LogShaderCompilers: Display: Worker (13/13): shaders left to compile 2483
+[2020.07.24-17.57.39:416][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2473
+[2020.07.24-17.57.39:416][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2463
+[2020.07.24-17.57.39:467][  0]SourceControl: Source control is disabled
+[2020.07.24-17.57.39:467][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Student/Documents/GitHub/DataViz/DataViz/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.24-17.57.39:468][  0]LightingResults: New page: Lighting Build
+[2020.07.24-17.57.39:469][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.24-17.57.39:469][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.24-17.57.39:469][  0]MapCheck: New page: Map Check
+[2020.07.24-17.57.39:469][  0]LightingResults: New page: Lighting Build
+[2020.07.24-17.57.39:798][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2453
+[2020.07.24-17.57.39:801][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.07.24-17.57.39:883][  0]LogMaterial: Display: Missing cached shader map for material M_HandMat, compiling. 
+[2020.07.24-17.57.39:928][  0]LogMaterial: Display: Missing cached shader map for material M_TeleportPreviews, compiling. 
+[2020.07.24-17.57.39:948][  0]LogMaterial: Display: Missing cached shader map for material GenericHMDMaterial, compiling. 
+[2020.07.24-17.57.39:971][  0]LogMaterial: Display: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2020.07.24-17.57.40:072][  0]LogMaterial: Display: Missing cached shader map for material M_BaseMaterial, compiling. 
+[2020.07.24-17.57.40:119][  0]LogAIModule: Creating AISystem for world StartupMap
+[2020.07.24-17.57.40:126][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.24-17.57.40:713][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.07.24-17.57.40:713][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.24-17.57.40:714][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.19ms to complete.
+[2020.07.24-17.57.40:714][  0]LogFileHelpers: Loading map 'StartupMap' took 1.247
+[2020.07.24-17.57.40:881][  0]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2600
+[2020.07.24-17.57.40:881][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.24-17.57.40:894][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.24-17.57.40:908][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.24-17.57.40:922][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.24-17.57.40:930][  0]LogCollectionManager: Loaded 0 collections in 0.002907 seconds
+[2020.07.24-17.57.40:955][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Documents/GitHub/DataViz/DataViz/Saved/Collections/' took 0.00s
+[2020.07.24-17.57.40:955][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Documents/GitHub/DataViz/DataViz/Content/Developers/Student/Collections/' took 0.00s
+[2020.07.24-17.57.40:955][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Documents/GitHub/DataViz/DataViz/Content/Collections/' took 0.00s
+[2020.07.24-17.57.40:955][  0]LogContentBrowser: Native class hierarchy populated in 0.0159 seconds. Added 3017 classes and 720 folders.
+[2020.07.24-17.57.40:962][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.07.24-17.57.41:034][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.07.24-17.57.41:072][  0]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.24-17.57.41:078][  0]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.24-17.57.41:080][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.24-17.57.41:131][  0]LogMaterial: Display: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2020.07.24-17.57.41:194][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 26 NumSamples 1 (Frame:1).
+[2020.07.24-17.57.41:306][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2613
+[2020.07.24-17.57.41:313][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.07.24-17.57.41:313][  0]LogLoad: (Engine Initialization) Total time: 11.85 seconds
+[2020.07.24-17.57.41:313][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.24-17.57.41:326][  0]LogOcInput: OculusInput is initialized
+[2020.07.24-17.57.41:381][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.24-17.57.41:441][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.24-17.57.41:463][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Student/Documents/GitHub/DataViz/DataViz/Content/' took 0.13s
+[2020.07.24-17.57.41:526][  2]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2603
+[2020.07.24-17.57.41:548][  2]LogAssetRegistry: Asset discovery search completed in 8.3307 seconds
+[2020.07.24-17.57.41:554][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000018 seconds (updated 0 objects)
+[2020.07.24-17.57.41:758][ 18]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2593
+[2020.07.24-17.57.42:105][ 49]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2583
+[2020.07.24-17.57.42:232][ 60]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2573
+[2020.07.24-17.57.42:428][ 71]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2563
+[2020.07.24-17.57.42:743][ 79]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2553
+[2020.07.24-17.57.42:776][ 80]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2543
+[2020.07.24-17.57.42:984][ 94]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2533
+[2020.07.24-17.57.43:319][123]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2523
+[2020.07.24-17.57.44:267][210]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2513
+[2020.07.24-17.57.44:344][216]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.24-17.57.44:714][225]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2503
+[2020.07.24-17.57.44:843][228]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2493
+[2020.07.24-17.57.46:159][342]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2483
+[2020.07.24-17.57.46:545][372]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2473
+[2020.07.24-17.57.46:674][385]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2463
+[2020.07.24-17.57.47:170][427]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2453
+[2020.07.24-17.57.47:333][442]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2443
+[2020.07.24-17.57.47:949][495]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2433
+[2020.07.24-17.57.48:232][518]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2423
+[2020.07.24-17.57.48:430][534]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2413
+[2020.07.24-17.57.48:585][548]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2403
+[2020.07.24-17.57.48:792][567]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2393
+[2020.07.24-17.57.49:323][611]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2383
+[2020.07.24-17.57.49:552][632]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2373
+[2020.07.24-17.57.50:120][680]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2363
+[2020.07.24-17.57.50:172][685]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2353
+[2020.07.24-17.57.50:637][726]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2343
+[2020.07.24-17.57.50:713][733]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2333
+[2020.07.24-17.57.51:510][801]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2323
+[2020.07.24-17.57.51:688][817]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2313
+[2020.07.24-17.57.51:697][818]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2303
+[2020.07.24-17.57.52:017][844]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2293
+[2020.07.24-17.57.52:251][865]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2283
+[2020.07.24-17.57.52:418][879]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2273
+[2020.07.24-17.57.52:638][898]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2263
+[2020.07.24-17.57.52:673][901]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2253
+[2020.07.24-17.57.53:728][991]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2243
+[2020.07.24-17.57.53:903][  8]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2233
+[2020.07.24-17.57.54:062][ 21]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2223
+[2020.07.24-17.57.54:352][ 47]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2213
+[2020.07.24-17.57.54:801][ 84]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2203
+[2020.07.24-17.57.54:881][ 91]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2193
+[2020.07.24-17.57.55:860][172]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2183
+[2020.07.24-17.57.56:029][187]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2173
+[2020.07.24-17.57.56:128][196]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2163
+[2020.07.24-17.57.56:140][197]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2153
+[2020.07.24-17.57.56:574][221]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2143
+[2020.07.24-17.57.56:740][233]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2133
+[2020.07.24-17.57.57:067][258]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2123
+[2020.07.24-17.57.58:019][334]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2113
+[2020.07.24-17.57.58:223][351]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2103
+[2020.07.24-17.57.58:234][352]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2093
+[2020.07.24-17.57.58:700][386]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2083
+[2020.07.24-17.57.59:020][410]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2073
+[2020.07.24-17.57.59:149][420]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2063
+[2020.07.24-17.57.59:977][486]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2053
+[2020.07.24-17.58.00:096][495]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2043
+[2020.07.24-17.58.00:329][512]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2033
+[2020.07.24-17.58.00:590][530]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2023
+[2020.07.24-17.58.00:829][548]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2013
+[2020.07.24-17.58.01:279][577]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2003
+[2020.07.24-17.58.01:570][597]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1993
+[2020.07.24-17.58.01:695][605]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1983
+[2020.07.24-17.58.01:834][615]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1973
+[2020.07.24-17.58.02:028][628]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1963
+[2020.07.24-17.58.02:543][663]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1953
+[2020.07.24-17.58.02:918][692]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1943
+[2020.07.24-17.58.02:931][693]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1933
+[2020.07.24-17.58.03:512][704]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1923
+[2020.07.24-17.58.03:512][704]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1913
+[2020.07.24-17.58.03:512][704]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1903
+[2020.07.24-17.58.03:723][704]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1893
+[2020.07.24-17.58.03:723][704]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1883
+[2020.07.24-17.58.04:621][704]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1873
+[2020.07.24-17.58.04:621][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1863
+[2020.07.24-17.58.04:621][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1853
+[2020.07.24-17.58.04:822][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1843
+[2020.07.24-17.58.05:322][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1833
+[2020.07.24-17.58.05:612][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1823
+[2020.07.24-17.58.06:491][704]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1813
+[2020.07.24-17.58.06:491][704]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1803
+[2020.07.24-17.58.06:491][704]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1793
+[2020.07.24-17.58.06:491][704]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1783
+[2020.07.24-17.58.06:491][704]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1773
+[2020.07.24-17.58.06:491][704]LogStaticMesh: Building static mesh SM_Locker01Door01...
+[2020.07.24-17.58.06:559][704]LogStaticMesh: Built static mesh [0.07s] /Game/ScienceLab/Meshes/Furniture/SM_Locker01Door01.SM_Locker01Door01
+[2020.07.24-17.58.06:570][704]LogStaticMesh: Building static mesh SM_Locker01...
+[2020.07.24-17.58.06:632][704]LogStaticMesh: Built static mesh [0.06s] /Game/ScienceLab/Meshes/Furniture/SM_Locker01.SM_Locker01
+[2020.07.24-17.58.06:645][704]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1763
+[2020.07.24-17.58.06:646][704]LogMaterial: Display: Missing cached shader map for material M_base, compiling. 
+[2020.07.24-17.58.06:790][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1753
+[2020.07.24-17.58.06:790][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1743
+[2020.07.24-17.58.06:790][704]LogMaterial: Display: Missing cached shader map for material M_base, compiling. 
+[2020.07.24-17.58.06:927][704]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2031
+[2020.07.24-17.58.06:927][704]LogStaticMesh: Building static mesh SM_FurnitureLamp01Part01...
+[2020.07.24-17.58.06:931][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/Furniture/SM_FurnitureLamp01Part01.SM_FurnitureLamp01Part01
+[2020.07.24-17.58.06:942][704]LogStaticMesh: Building static mesh SM_Wire06...
+[2020.07.24-17.58.06:966][704]LogStaticMesh: Built static mesh [0.02s] /Game/ScienceLab/Meshes/Wire/SM_Wire06.SM_Wire06
+[2020.07.24-17.58.06:977][704]LogStaticMesh: Building static mesh SM_Wire05...
+[2020.07.24-17.58.06:999][704]LogStaticMesh: Built static mesh [0.02s] /Game/ScienceLab/Meshes/Wire/SM_Wire05.SM_Wire05
+[2020.07.24-17.58.07:007][704]LogStaticMesh: Building static mesh SM_Wire04...
+[2020.07.24-17.58.07:021][704]LogStaticMesh: Built static mesh [0.01s] /Game/ScienceLab/Meshes/Wire/SM_Wire04.SM_Wire04
+[2020.07.24-17.58.07:051][704]LogStaticMesh: Building static mesh SM_Wire03...
+[2020.07.24-17.58.07:122][704]LogStaticMesh: Built static mesh [0.07s] /Game/ScienceLab/Meshes/Wire/SM_Wire03.SM_Wire03
+[2020.07.24-17.58.07:138][704]LogStaticMesh: Building static mesh SM_Wire02...
+[2020.07.24-17.58.07:156][704]LogStaticMesh: Built static mesh [0.02s] /Game/ScienceLab/Meshes/Wire/SM_Wire02.SM_Wire02
+[2020.07.24-17.58.07:163][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2319
+[2020.07.24-17.58.07:163][704]LogStaticMesh: Building static mesh SM_Wire01...
+[2020.07.24-17.58.07:166][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/Wire/SM_Wire01.SM_Wire01
+[2020.07.24-17.58.07:179][704]LogMaterial: Display: Missing cached shader map for material M_base, compiling. 
+[2020.07.24-17.58.07:547][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2309
+[2020.07.24-17.58.07:552][704]LogMaterial: Display: Missing cached shader map for material M_radial_ramp, compiling. 
+[2020.07.24-17.58.07:582][704]LogMaterial: Display: Missing cached shader map for material M_beam_ramp, compiling. 
+[2020.07.24-17.58.07:649][704]LogStaticMesh: Building static mesh SM_BorderDoor01...
+[2020.07.24-17.58.07:654][704]LogStaticMesh: Built static mesh [0.01s] /Game/ScienceLab/Meshes/Rooms/Wall/SM_BorderDoor01.SM_BorderDoor01
+[2020.07.24-17.58.07:660][704]LogStaticMesh: Building static mesh SM_BorderColumn02...
+[2020.07.24-17.58.07:672][704]LogStaticMesh: Built static mesh [0.01s] /Game/ScienceLab/Meshes/Rooms/Wall/SM_BorderColumn02.SM_BorderColumn02
+[2020.07.24-17.58.07:675][704]LogStaticMesh: Building static mesh SM_Border01...
+[2020.07.24-17.58.07:682][704]LogStaticMesh: Built static mesh [0.01s] /Game/ScienceLab/Meshes/Rooms/Wall/SM_Border01.SM_Border01
+[2020.07.24-17.58.07:684][704]LogStaticMesh: Building static mesh SM_Edge01...
+[2020.07.24-17.58.07:688][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/Rooms/Wall/SM_Edge01.SM_Edge01
+[2020.07.24-17.58.07:690][704]LogStaticMesh: Building static mesh SM_BorderDoor02...
+[2020.07.24-17.58.07:694][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/Rooms/Wall/SM_BorderDoor02.SM_BorderDoor02
+[2020.07.24-17.58.07:697][704]LogStaticMesh: Building static mesh SM_BorderAngle03...
+[2020.07.24-17.58.07:707][704]LogStaticMesh: Built static mesh [0.01s] /Game/ScienceLab/Meshes/Rooms/Wall/SM_BorderAngle03.SM_BorderAngle03
+[2020.07.24-17.58.07:711][704]LogStaticMesh: Building static mesh SM_EdgeAngle03...
+[2020.07.24-17.58.07:716][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/Rooms/Wall/SM_EdgeAngle03.SM_EdgeAngle03
+[2020.07.24-17.58.07:719][704]LogStaticMesh: Building static mesh SM_BorderAngle04...
+[2020.07.24-17.58.07:730][704]LogStaticMesh: Built static mesh [0.01s] /Game/ScienceLab/Meshes/Rooms/Wall/SM_BorderAngle04.SM_BorderAngle04
+[2020.07.24-17.58.07:733][704]LogStaticMesh: Building static mesh SM_EdgeAngle04...
+[2020.07.24-17.58.07:739][704]LogStaticMesh: Built static mesh [0.01s] /Game/ScienceLab/Meshes/Rooms/Wall/SM_EdgeAngle04.SM_EdgeAngle04
+[2020.07.24-17.58.07:741][704]LogStaticMesh: Building static mesh SM_BorderDoor04...
+[2020.07.24-17.58.07:743][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/Rooms/Wall/SM_BorderDoor04.SM_BorderDoor04
+[2020.07.24-17.58.07:745][704]LogStaticMesh: Building static mesh SM_Edge02...
+[2020.07.24-17.58.07:747][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/Rooms/Wall/SM_Edge02.SM_Edge02
+[2020.07.24-17.58.07:749][704]LogStaticMesh: Building static mesh SM_EdgeAngle01...
+[2020.07.24-17.58.07:752][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/Rooms/Wall/SM_EdgeAngle01.SM_EdgeAngle01
+[2020.07.24-17.58.07:755][704]LogStaticMesh: Building static mesh SM_Border02...
+[2020.07.24-17.58.07:757][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/Rooms/Wall/SM_Border02.SM_Border02
+[2020.07.24-17.58.07:760][704]LogStaticMesh: Building static mesh SM_EdgeColumn02...
+[2020.07.24-17.58.07:765][704]LogStaticMesh: Built static mesh [0.01s] /Game/ScienceLab/Meshes/Rooms/Wall/SM_EdgeColumn02.SM_EdgeColumn02
+[2020.07.24-17.58.07:769][704]LogStaticMesh: Building static mesh SM_BorderLabDoor02...
+[2020.07.24-17.58.07:773][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/Rooms/Wall/SM_BorderLabDoor02.SM_BorderLabDoor02
+[2020.07.24-17.58.07:775][704]LogStaticMesh: Building static mesh SM_BorderLift01...
+[2020.07.24-17.58.07:778][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/Rooms/Wall/SM_BorderLift01.SM_BorderLift01
+[2020.07.24-17.58.07:796][704]LogStaticMesh: Building static mesh SM_BorderDoor03...
+[2020.07.24-17.58.07:796][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/Rooms/Wall/SM_BorderDoor03.SM_BorderDoor03
+[2020.07.24-17.58.07:798][704]LogStaticMesh: Building static mesh SM_BorderLabDoor03...
+[2020.07.24-17.58.07:801][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/Rooms/Wall/SM_BorderLabDoor03.SM_BorderLabDoor03
+[2020.07.24-17.58.07:840][704]LogStaticMesh: Building static mesh SM_Doorjamb05...
+[2020.07.24-17.58.08:261][704]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2665
+[2020.07.24-17.58.08:261][704]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2655
+[2020.07.24-17.58.08:261][704]LogStaticMesh: Built static mesh [0.42s] /Game/ScienceLab/Meshes/Rooms/Doors/SM_Doorjamb05.SM_Doorjamb05
+[2020.07.24-17.58.08:281][704]LogStaticMesh: Building static mesh SM_Door10...
+[2020.07.24-17.58.08:381][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2645
+[2020.07.24-17.58.08:381][704]LogStaticMesh: Built static mesh [0.10s] /Game/ScienceLab/Meshes/Rooms/Doors/SM_Door10.SM_Door10
+[2020.07.24-17.58.08:416][704]LogStaticMesh: Building static mesh SM_BulletinBoard1...
+[2020.07.24-17.58.08:435][704]LogStaticMesh: Built static mesh [0.02s] /Game/ScienceLab/Meshes/OfficeProps/SM_BulletinBoard1.SM_BulletinBoard1
+[2020.07.24-17.58.08:474][704]LogStaticMesh: Building static mesh SM_BulletinBoard2...
+[2020.07.24-17.58.08:496][704]LogStaticMesh: Built static mesh [0.02s] /Game/ScienceLab/Meshes/OfficeProps/SM_BulletinBoard2.SM_BulletinBoard2
+[2020.07.24-17.58.08:524][704]LogStaticMesh: Building static mesh SM_Bush2...
+[2020.07.24-17.58.08:787][704]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2635
+[2020.07.24-17.58.08:787][704]LogStaticMesh: Built static mesh [0.26s] /Game/ScienceLab/Meshes/Flora/SM_Bush2.SM_Bush2
+[2020.07.24-17.58.08:807][704]LogStaticMesh: Building static mesh SM_Bush1...
+[2020.07.24-17.58.08:883][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2625
+[2020.07.24-17.58.08:884][704]LogStaticMesh: Built static mesh [0.08s] /Game/ScienceLab/Meshes/Flora/SM_Bush1.SM_Bush1
+[2020.07.24-17.58.08:917][704]LogStaticMesh: Building static mesh SM_Bush3...
+[2020.07.24-17.58.09:290][704]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2615
+[2020.07.24-17.58.09:290][704]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2605
+[2020.07.24-17.58.09:290][704]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2595
+[2020.07.24-17.58.09:290][704]LogStaticMesh: Built static mesh [0.37s] /Game/ScienceLab/Meshes/Flora/SM_Bush3.SM_Bush3
+[2020.07.24-17.58.09:301][704]LogStaticMesh: Building static mesh SM_Ceiling01...
+[2020.07.24-17.58.09:310][704]LogStaticMesh: Built static mesh [0.01s] /Game/ScienceLab/Meshes/Rooms/Ceiling/SM_Ceiling01.SM_Ceiling01
+[2020.07.24-17.58.09:312][704]LogStaticMesh: Building static mesh SM_Ceiling02...
+[2020.07.24-17.58.09:316][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/Rooms/Ceiling/SM_Ceiling02.SM_Ceiling02
+[2020.07.24-17.58.09:398][704]LogStaticMesh: Building static mesh SM_Chair2...
+[2020.07.24-17.58.10:201][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2585
+[2020.07.24-17.58.10:201][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2575
+[2020.07.24-17.58.10:201][704]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2565
+[2020.07.24-17.58.10:201][704]LogStaticMesh: Built static mesh [0.80s] /Game/ScienceLab/Meshes/OfficeProps/SM_Chair2.SM_Chair2
+[2020.07.24-17.58.10:268][704]LogStaticMesh: Building static mesh SM_Chair1...
+[2020.07.24-17.58.10:615][704]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2555
+[2020.07.24-17.58.10:615][704]LogStaticMesh: Built static mesh [0.35s] /Game/ScienceLab/Meshes/OfficeProps/SM_Chair1.SM_Chair1
+[2020.07.24-17.58.10:709][704]LogStaticMesh: Building static mesh SM_Chair3...
+[2020.07.24-17.58.11:656][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2545
+[2020.07.24-17.58.11:656][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2535
+[2020.07.24-17.58.11:656][704]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2525
+[2020.07.24-17.58.11:656][704]LogStaticMesh: Built static mesh [0.95s] /Game/ScienceLab/Meshes/OfficeProps/SM_Chair3.SM_Chair3
+[2020.07.24-17.58.11:769][704]LogStaticMesh: Building static mesh SM_ChemicalContainer01...
+[2020.07.24-17.58.12:677][704]LogStaticMesh: Built static mesh [0.91s] /Game/ScienceLab/Meshes/ScientificDevice/ChemicalContainer/SM_ChemicalContainer01.SM_ChemicalContainer01
+[2020.07.24-17.58.12:999][704]LogStaticMesh: Building static mesh SM_ChemicalContainer02A...
+[2020.07.24-17.58.17:437][704]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2515
+[2020.07.24-17.58.17:437][704]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2505
+[2020.07.24-17.58.17:437][704]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2495
+[2020.07.24-17.58.17:437][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2485
+[2020.07.24-17.58.17:437][704]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2475
+[2020.07.24-17.58.17:437][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2465
+[2020.07.24-17.58.17:437][704]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2455
+[2020.07.24-17.58.17:437][704]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2445
+[2020.07.24-17.58.17:437][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2435
+[2020.07.24-17.58.17:437][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2425
+[2020.07.24-17.58.17:437][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2415
+[2020.07.24-17.58.17:437][704]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2405
+[2020.07.24-17.58.17:437][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2395
+[2020.07.24-17.58.17:437][704]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2385
+[2020.07.24-17.58.17:437][704]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2375
+[2020.07.24-17.58.17:437][704]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2365
+[2020.07.24-17.58.17:437][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2355
+[2020.07.24-17.58.17:437][704]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2345
+[2020.07.24-17.58.17:437][704]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2335
+[2020.07.24-17.58.17:437][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2325
+[2020.07.24-17.58.17:437][704]LogStaticMesh: Built static mesh [4.44s] /Game/ScienceLab/Meshes/ScientificDevice/ChemicalContainer/SM_ChemicalContainer02A.SM_ChemicalContainer02A
+[2020.07.24-17.58.17:543][704]LogStaticMesh: Building static mesh SM_ChemicalContainer02B...
+[2020.07.24-17.58.17:863][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2315
+[2020.07.24-17.58.17:863][704]LogStaticMesh: Built static mesh [0.32s] /Game/ScienceLab/Meshes/ScientificDevice/ChemicalContainer/SM_ChemicalContainer02B.SM_ChemicalContainer02B
+[2020.07.24-17.58.17:924][704]LogStaticMesh: Building static mesh SM_ChemicalContainer03...
+[2020.07.24-17.58.18:489][704]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2305
+[2020.07.24-17.58.18:489][704]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2295
+[2020.07.24-17.58.18:489][704]LogStaticMesh: Built static mesh [0.56s] /Game/ScienceLab/Meshes/ScientificDevice/ChemicalContainer/SM_ChemicalContainer03.SM_ChemicalContainer03
+[2020.07.24-17.58.18:569][704]LogStaticMesh: Building static mesh SM_ChemicalContainer04B...
+[2020.07.24-17.58.19:365][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2285
+[2020.07.24-17.58.19:366][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2275
+[2020.07.24-17.58.19:366][704]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2265
+[2020.07.24-17.58.19:366][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2255
+[2020.07.24-17.58.19:366][704]LogStaticMesh: Built static mesh [0.80s] /Game/ScienceLab/Meshes/ScientificDevice/ChemicalContainer/SM_ChemicalContainer04B.SM_ChemicalContainer04B
+[2020.07.24-17.58.19:420][704]LogStaticMesh: Building static mesh SM_ChemicalContainer04D...
+[2020.07.24-17.58.19:898][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2245
+[2020.07.24-17.58.19:899][704]LogStaticMesh: Built static mesh [0.48s] /Game/ScienceLab/Meshes/ScientificDevice/ChemicalContainer/SM_ChemicalContainer04D.SM_ChemicalContainer04D
+[2020.07.24-17.58.19:998][704]LogStaticMesh: Building static mesh SM_ChemicalContainer05B...
+[2020.07.24-17.58.21:066][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2235
+[2020.07.24-17.58.21:066][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2225
+[2020.07.24-17.58.21:066][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2215
+[2020.07.24-17.58.21:066][704]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2205
+[2020.07.24-17.58.21:066][704]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2195
+[2020.07.24-17.58.21:066][704]LogStaticMesh: Built static mesh [1.07s] /Game/ScienceLab/Meshes/ScientificDevice/ChemicalContainer/SM_ChemicalContainer05B.SM_ChemicalContainer05B
+[2020.07.24-17.58.21:190][704]LogStaticMesh: Building static mesh SM_ChemicalContainer05A...
+[2020.07.24-17.58.22:303][704]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2185
+[2020.07.24-17.58.22:303][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2175
+[2020.07.24-17.58.22:303][704]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2165
+[2020.07.24-17.58.22:303][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2155
+[2020.07.24-17.58.22:303][704]LogStaticMesh: Built static mesh [1.11s] /Game/ScienceLab/Meshes/ScientificDevice/ChemicalContainer/SM_ChemicalContainer05A.SM_ChemicalContainer05A
+[2020.07.24-17.58.22:561][704]LogStaticMesh: Building static mesh SM_ChemicalContainer06A...
+[2020.07.24-17.58.25:762][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2145
+[2020.07.24-17.58.25:763][704]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2135
+[2020.07.24-17.58.25:763][704]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2125
+[2020.07.24-17.58.25:763][704]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2115
+[2020.07.24-17.58.25:763][704]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2105
+[2020.07.24-17.58.25:763][704]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2095
+[2020.07.24-17.58.25:763][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2085
+[2020.07.24-17.58.25:763][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2075
+[2020.07.24-17.58.25:763][704]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2065
+[2020.07.24-17.58.25:763][704]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2055
+[2020.07.24-17.58.25:763][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2045
+[2020.07.24-17.58.25:763][704]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2035
+[2020.07.24-17.58.25:763][704]LogStaticMesh: Built static mesh [3.20s] /Game/ScienceLab/Meshes/ScientificDevice/ChemicalContainer/SM_ChemicalContainer06A.SM_ChemicalContainer06A
+[2020.07.24-17.58.26:052][704]LogStaticMesh: Building static mesh SM_ChemicalContainer06B...
+[2020.07.24-17.58.29:212][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2025
+[2020.07.24-17.58.29:212][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2015
+[2020.07.24-17.58.29:212][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2005
+[2020.07.24-17.58.29:212][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1995
+[2020.07.24-17.58.29:212][704]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1985
+[2020.07.24-17.58.29:212][704]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1975
+[2020.07.24-17.58.29:212][704]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1965
+[2020.07.24-17.58.29:212][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1955
+[2020.07.24-17.58.29:212][704]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1945
+[2020.07.24-17.58.29:212][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1935
+[2020.07.24-17.58.29:212][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1925
+[2020.07.24-17.58.29:212][704]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1915
+[2020.07.24-17.58.29:212][704]LogStaticMesh: Built static mesh [3.16s] /Game/ScienceLab/Meshes/ScientificDevice/ChemicalContainer/SM_ChemicalContainer06B.SM_ChemicalContainer06B
+[2020.07.24-17.58.29:350][704]LogStaticMesh: Building static mesh SM_ChemicalContainer06C...
+[2020.07.24-17.58.30:324][704]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1905
+[2020.07.24-17.58.30:324][704]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1895
+[2020.07.24-17.58.30:324][704]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1885
+[2020.07.24-17.58.30:324][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1875
+[2020.07.24-17.58.30:324][704]LogStaticMesh: Built static mesh [0.97s] /Game/ScienceLab/Meshes/ScientificDevice/ChemicalContainer/SM_ChemicalContainer06C.SM_ChemicalContainer06C
+[2020.07.24-17.58.30:384][704]LogStaticMesh: Building static mesh SM_ChemicalContainer07A...
+[2020.07.24-17.58.30:724][704]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1865
+[2020.07.24-17.58.30:724][704]LogStaticMesh: Built static mesh [0.34s] /Game/ScienceLab/Meshes/ScientificDevice/ChemicalContainer/SM_ChemicalContainer07A.SM_ChemicalContainer07A
+[2020.07.24-17.58.30:757][704]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1855
+[2020.07.24-17.58.30:757][704]LogStaticMesh: Building static mesh SM_ChemicalContainer07B...
+[2020.07.24-17.58.30:986][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1845
+[2020.07.24-17.58.30:986][704]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1835
+[2020.07.24-17.58.30:986][704]LogStaticMesh: Built static mesh [0.23s] /Game/ScienceLab/Meshes/ScientificDevice/ChemicalContainer/SM_ChemicalContainer07B.SM_ChemicalContainer07B
+[2020.07.24-17.58.31:023][704]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1825
+[2020.07.24-17.58.31:023][704]LogStaticMesh: Building static mesh SM_ControlPanel04...
+[2020.07.24-17.58.31:214][704]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1815
+[2020.07.24-17.58.31:214][704]LogStaticMesh: Built static mesh [0.19s] /Game/ScienceLab/Meshes/ScientificDevice/ControlPanel/SM_ControlPanel04.SM_ControlPanel04
+[2020.07.24-17.58.31:242][704]LogStaticMesh: Building static mesh SM_ControlPanel06...
+[2020.07.24-17.58.31:359][704]LogStaticMesh: Built static mesh [0.12s] /Game/ScienceLab/Meshes/ScientificDevice/ControlPanel/SM_ControlPanel06.SM_ControlPanel06
+[2020.07.24-17.58.31:376][704]LogStaticMesh: Building static mesh SM_ControlPanel07...
+[2020.07.24-17.58.31:478][704]LogStaticMesh: Built static mesh [0.10s] /Game/ScienceLab/Meshes/ScientificDevice/ControlPanel/SM_ControlPanel07.SM_ControlPanel07
+[2020.07.24-17.58.31:526][704]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1805
+[2020.07.24-17.58.31:526][704]LogStaticMesh: Building static mesh SM_ControlPanel08...
+[2020.07.24-17.58.31:809][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1795
+[2020.07.24-17.58.31:809][704]LogStaticMesh: Built static mesh [0.28s] /Game/ScienceLab/Meshes/ScientificDevice/ControlPanel/SM_ControlPanel08.SM_ControlPanel08
+[2020.07.24-17.58.31:851][704]LogStaticMesh: Building static mesh SM_ControlPanel09...
+[2020.07.24-17.58.32:048][704]LogStaticMesh: Built static mesh [0.20s] /Game/ScienceLab/Meshes/ScientificDevice/ControlPanel/SM_ControlPanel09.SM_ControlPanel09
+[2020.07.24-17.58.32:071][704]LogStaticMesh: Building static mesh SM_ControlPanel10...
+[2020.07.24-17.58.32:141][704]LogStaticMesh: Built static mesh [0.07s] /Game/ScienceLab/Meshes/ScientificDevice/ControlPanel/SM_ControlPanel10.SM_ControlPanel10
+[2020.07.24-17.58.32:154][704]LogStaticMesh: Building static mesh SM_ControlPanel19...
+[2020.07.24-17.58.32:242][704]LogStaticMesh: Built static mesh [0.09s] /Game/ScienceLab/Meshes/ScientificDevice/ControlPanel/SM_ControlPanel19.SM_ControlPanel19
+[2020.07.24-17.58.32:251][704]LogStaticMesh: Building static mesh SM_ControlPanel16...
+[2020.07.24-17.58.32:287][704]LogStaticMesh: Built static mesh [0.04s] /Game/ScienceLab/Meshes/ScientificDevice/ControlPanel/SM_ControlPanel16.SM_ControlPanel16
+[2020.07.24-17.58.32:289][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1785
+[2020.07.24-17.58.32:301][704]LogStaticMesh: Building static mesh SM_ControlPanel14...
+[2020.07.24-17.58.32:379][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1775
+[2020.07.24-17.58.32:379][704]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1765
+[2020.07.24-17.58.32:379][704]LogStaticMesh: Built static mesh [0.08s] /Game/ScienceLab/Meshes/ScientificDevice/ControlPanel/SM_ControlPanel14.SM_ControlPanel14
+[2020.07.24-17.58.32:385][704]LogStaticMesh: Building static mesh SM_ControlPanel22...
+[2020.07.24-17.58.32:412][704]LogStaticMesh: Built static mesh [0.03s] /Game/ScienceLab/Meshes/ScientificDevice/ControlPanel/SM_ControlPanel22.SM_ControlPanel22
+[2020.07.24-17.58.32:417][704]LogStaticMesh: Building static mesh SM_ControlPanel21...
+[2020.07.24-17.58.32:435][704]LogStaticMesh: Built static mesh [0.02s] /Game/ScienceLab/Meshes/ScientificDevice/ControlPanel/SM_ControlPanel21.SM_ControlPanel21
+[2020.07.24-17.58.32:442][704]LogStaticMesh: Building static mesh SM_ControlPanel15...
+[2020.07.24-17.58.32:477][704]LogStaticMesh: Built static mesh [0.04s] /Game/ScienceLab/Meshes/ScientificDevice/ControlPanel/SM_ControlPanel15.SM_ControlPanel15
+[2020.07.24-17.58.32:490][704]LogStaticMesh: Building static mesh SM_ControlPanel17...
+[2020.07.24-17.58.32:556][704]LogStaticMesh: Built static mesh [0.07s] /Game/ScienceLab/Meshes/ScientificDevice/ControlPanel/SM_ControlPanel17.SM_ControlPanel17
+[2020.07.24-17.58.32:569][704]LogStaticMesh: Building static mesh SM_ControlPanel13...
+[2020.07.24-17.58.32:625][704]LogStaticMesh: Built static mesh [0.05s] /Game/ScienceLab/Meshes/ScientificDevice/ControlPanel/SM_ControlPanel13.SM_ControlPanel13
+[2020.07.24-17.58.32:723][704]LogStaticMesh: Building static mesh SM_CopierMFP...
+[2020.07.24-17.58.32:798][704]LogStaticMesh: Built static mesh [0.08s] /Game/ScienceLab/Meshes/OfficeProps/SM_CopierMFP.SM_CopierMFP
+[2020.07.24-17.58.32:840][704]LogStaticMesh: Building static mesh SM_Cup1...
+[2020.07.24-17.58.32:857][704]LogStaticMesh: Built static mesh [0.02s] /Game/ScienceLab/Meshes/OfficeProps/SM_Cup1.SM_Cup1
+[2020.07.24-17.58.32:868][704]LogStaticMesh: Building static mesh SM_Cup2...
+[2020.07.24-17.58.32:873][704]LogStaticMesh: Built static mesh [0.01s] /Game/ScienceLab/Meshes/OfficeProps/SM_Cup2.SM_Cup2
+[2020.07.24-17.58.32:875][704]LogStaticMesh: Building static mesh SM_Document01...
+[2020.07.24-17.58.32:875][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/OfficeProps/Paper/SM_Document01.SM_Document01
+[2020.07.24-17.58.32:877][704]LogStaticMesh: Building static mesh SM_Document02...
+[2020.07.24-17.58.32:877][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/OfficeProps/Paper/SM_Document02.SM_Document02
+[2020.07.24-17.58.32:878][704]LogStaticMesh: Building static mesh SM_Document03...
+[2020.07.24-17.58.32:878][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/OfficeProps/Paper/SM_Document03.SM_Document03
+[2020.07.24-17.58.32:879][704]LogStaticMesh: Building static mesh SM_Document04...
+[2020.07.24-17.58.32:879][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/OfficeProps/Paper/SM_Document04.SM_Document04
+[2020.07.24-17.58.32:880][704]LogStaticMesh: Building static mesh SM_Document05...
+[2020.07.24-17.58.32:880][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/OfficeProps/Paper/SM_Document05.SM_Document05
+[2020.07.24-17.58.32:881][704]LogStaticMesh: Building static mesh SM_Document06...
+[2020.07.24-17.58.32:881][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/OfficeProps/Paper/SM_Document06.SM_Document06
+[2020.07.24-17.58.32:887][704]LogStaticMesh: Building static mesh SM_Document08...
+[2020.07.24-17.58.32:887][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/OfficeProps/Paper/SM_Document08.SM_Document08
+[2020.07.24-17.58.32:908][704]LogStaticMesh: Building static mesh SM_Door06...
+[2020.07.24-17.58.33:086][704]LogStaticMesh: Built static mesh [0.18s] /Game/ScienceLab/Meshes/Rooms/Doors/SM_Door06.SM_Door06
+[2020.07.24-17.58.33:107][704]LogStaticMesh: Building static mesh SM_Door02...
+[2020.07.24-17.58.33:256][704]LogStaticMesh: Built static mesh [0.15s] /Game/ScienceLab/Meshes/Rooms/Doors/SM_Door02.SM_Door02
+[2020.07.24-17.58.33:285][704]LogStaticMesh: Building static mesh SM_Door08...
+[2020.07.24-17.58.33:502][704]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1755
+[2020.07.24-17.58.33:502][704]LogStaticMesh: Built static mesh [0.22s] /Game/ScienceLab/Meshes/Rooms/Doors/SM_Door08.SM_Door08
+[2020.07.24-17.58.33:541][704]LogStaticMesh: Building static mesh SM_Door09...
+[2020.07.24-17.58.33:779][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1745
+[2020.07.24-17.58.33:779][704]LogStaticMesh: Built static mesh [0.24s] /Game/ScienceLab/Meshes/Rooms/Doors/SM_Door09.SM_Door09
+[2020.07.24-17.58.33:809][704]LogStaticMesh: Building static mesh SM_Door04...
+[2020.07.24-17.58.33:903][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1735
+[2020.07.24-17.58.33:903][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1725
+[2020.07.24-17.58.33:903][704]LogStaticMesh: Built static mesh [0.09s] /Game/ScienceLab/Meshes/Rooms/Doors/SM_Door04.SM_Door04
+[2020.07.24-17.58.33:917][704]LogStaticMesh: Building static mesh SM_Door01...
+[2020.07.24-17.58.34:015][704]LogStaticMesh: Built static mesh [0.10s] /Game/ScienceLab/Meshes/Rooms/Doors/SM_Door01.SM_Door01
+[2020.07.24-17.58.34:036][704]LogStaticMesh: Building static mesh SM_Door07...
+[2020.07.24-17.58.34:196][704]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1715
+[2020.07.24-17.58.34:196][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1705
+[2020.07.24-17.58.34:196][704]LogStaticMesh: Built static mesh [0.16s] /Game/ScienceLab/Meshes/Rooms/Doors/SM_Door07.SM_Door07
+[2020.07.24-17.58.34:205][704]LogStaticMesh: Building static mesh SM_Doorjamb01...
+[2020.07.24-17.58.34:246][704]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1695
+[2020.07.24-17.58.34:246][704]LogStaticMesh: Built static mesh [0.04s] /Game/ScienceLab/Meshes/Rooms/Doors/SM_Doorjamb01.SM_Doorjamb01
+[2020.07.24-17.58.34:256][704]LogStaticMesh: Building static mesh SM_Doorjamb02...
+[2020.07.24-17.58.34:305][704]LogStaticMesh: Built static mesh [0.05s] /Game/ScienceLab/Meshes/Rooms/Doors/SM_Doorjamb02.SM_Doorjamb02
+[2020.07.24-17.58.34:308][704]LogStaticMesh: Building static mesh SM_Doorjamb03...
+[2020.07.24-17.58.34:320][704]LogStaticMesh: Built static mesh [0.01s] /Game/ScienceLab/Meshes/Rooms/Doors/SM_Doorjamb03.SM_Doorjamb03
+[2020.07.24-17.58.34:523][704]LogStaticMesh: Building static mesh SM_ElectronMicroscope...
+[2020.07.24-17.58.37:892][704]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1685
+[2020.07.24-17.58.37:892][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1675
+[2020.07.24-17.58.37:892][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1665
+[2020.07.24-17.58.37:892][704]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1655
+[2020.07.24-17.58.37:892][704]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1645
+[2020.07.24-17.58.37:892][704]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1635
+[2020.07.24-17.58.37:892][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1625
+[2020.07.24-17.58.37:892][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1615
+[2020.07.24-17.58.37:892][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1605
+[2020.07.24-17.58.37:892][704]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1595
+[2020.07.24-17.58.37:892][704]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1585
+[2020.07.24-17.58.37:892][704]LogStaticMesh: Built static mesh [3.37s] /Game/ScienceLab/Meshes/ScientificDevice/SM_ElectronMicroscope.SM_ElectronMicroscope
+[2020.07.24-17.58.37:991][704]LogStaticMesh: Building static mesh SM_Entrance01...
+[2020.07.24-17.58.38:646][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1575
+[2020.07.24-17.58.38:646][704]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1565
+[2020.07.24-17.58.38:646][704]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1555
+[2020.07.24-17.58.38:646][704]LogStaticMesh: Built static mesh [0.66s] /Game/ScienceLab/Meshes/Rooms/Entrance/SM_Entrance01.SM_Entrance01
+[2020.07.24-17.58.38:659][704]LogStaticMesh: Building static mesh SM_Entrance04...
+[2020.07.24-17.58.38:680][704]LogStaticMesh: Built static mesh [0.02s] /Game/ScienceLab/Meshes/Rooms/Entrance/SM_Entrance04.SM_Entrance04
+[2020.07.24-17.58.38:686][704]LogStaticMesh: Building static mesh SM_Entrance05...
+[2020.07.24-17.58.38:734][704]LogStaticMesh: Built static mesh [0.05s] /Game/ScienceLab/Meshes/Rooms/Entrance/SM_Entrance05.SM_Entrance05
+[2020.07.24-17.58.38:741][704]LogStaticMesh: Building static mesh SM_Entrance02...
+[2020.07.24-17.58.38:777][704]LogStaticMesh: Built static mesh [0.04s] /Game/ScienceLab/Meshes/Rooms/Entrance/SM_Entrance02.SM_Entrance02
+[2020.07.24-17.58.38:784][704]LogStaticMesh: Building static mesh SM_Entrance03...
+[2020.07.24-17.58.38:820][704]LogStaticMesh: Built static mesh [0.04s] /Game/ScienceLab/Meshes/Rooms/Entrance/SM_Entrance03.SM_Entrance03
+[2020.07.24-17.58.38:829][704]LogStaticMesh: Building static mesh SM_FeltPen...
+[2020.07.24-17.58.38:833][704]LogStaticMesh: Built static mesh [0.00s] /Game/ScienceLab/Meshes/OfficeProps/SM_FeltPen.SM_FeltPen
+[2020.07.24-17.58.38:838][704]LogStaticMesh: Building static mesh SM_FilingCabinets2...
+[2020.07.24-17.58.38:852][704]LogStaticMesh: Built static mesh [0.01s] /Game/ScienceLab/Meshes/OfficeProps/SM_FilingCabinets2.SM_FilingCabinets2
+[2020.07.24-17.58.38:859][704]LogStaticMesh: Building static mesh SM_FilingCabinets1...
+[2020.07.24-17.58.38:871][704]LogStaticMesh: Built static mesh [0.01s] /Game/ScienceLab/Meshes/OfficeProps/SM_FilingCabinets1.SM_FilingCabinets1
+[2020.07.24-17.58.38:877][704]LogStaticMesh: Building static mesh SM_FilingCabinetsBox...
+[2020.07.24-17.58.38:898][704]LogStaticMesh: Built static mesh [0.02s] /Game/ScienceLab/Meshes/OfficeProps/SM_FilingCabinetsBox.SM_FilingCabinetsBox
+[2020.07.24-17.58.38:910][704]LogStaticMesh: Building static mesh SM_FireAlarm01...
+[2020.07.24-17.58.38:961][704]LogStaticMesh: Built static mesh [0.05s] /Game/ScienceLab/Meshes/Rooms/Ceiling/SM_FireAlarm01.SM_FireAlarm01
+[2020.07.24-17.58.38:968][704]LogStaticMesh: Building static mesh SM_FlowerPot01...
+[2020.07.24-17.58.39:002][704]LogStaticMesh: Built static mesh [0.03s] /Game/ScienceLab/Meshes/Furniture/SM_FlowerPot01.SM_FlowerPot01
+[2020.07.24-17.58.39:009][704]LogStaticMesh: Building static mesh SM_FlowerPot02...
+[2020.07.24-17.58.39:051][704]LogStaticMesh: Built static mesh [0.04s] /Game/ScienceLab/Meshes/Furniture/SM_FlowerPot02.SM_FlowerPot02
+[2020.07.24-17.58.39:059][704]LogStaticMesh: Building static mesh SM_FurnitureLamp01Part02...
+[2020.07.24-17.58.39:102][704]LogStaticMesh: Built static mesh [0.04s] /Game/ScienceLab/Meshes/Furniture/SM_FurnitureLamp01Part02.SM_FurnitureLamp01Part02
+[2020.07.24-17.58.39:117][704]LogStaticMesh: Building static mesh SM_FurnitureLamp01Part03...
+[2020.07.24-17.58.39:182][704]LogStaticMesh: Built static mesh [0.07s] /Game/ScienceLab/Meshes/Furniture/SM_FurnitureLamp01Part03.SM_FurnitureLamp01Part03
+[2020.07.24-17.58.39:192][704]LogStaticMesh: Building static mesh SM_FurnitureLamp01Part04...
+[2020.07.24-17.58.39:267][704]LogStaticMesh: Built static mesh [0.07s] /Game/ScienceLab/Meshes/Furniture/SM_FurnitureLamp01Part04.SM_FurnitureLamp01Part04
+[2020.07.24-17.58.39:280][704]LogStaticMesh: Building static mesh SM_FurnitureLamp01Part05...
+[2020.07.24-17.58.39:385][704]LogStaticMesh: Built static mesh [0.11s] /Game/ScienceLab/Meshes/Furniture/SM_FurnitureLamp01Part05.SM_FurnitureLamp01Part05
+[2020.07.24-17.58.39:461][704]LogStaticMesh: Building static mesh SM_GasCylinder01A...
+[2020.07.24-17.58.40:127][704]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1545
+[2020.07.24-17.58.40:128][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1535
+[2020.07.24-17.58.40:128][704]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1525
+[2020.07.24-17.58.40:128][704]LogStaticMesh: Built static mesh [0.67s] /Game/ScienceLab/Meshes/ScientificDevice/ChemicalContainer/SM_GasCylinder01A.SM_GasCylinder01A
+[2020.07.24-17.58.40:151][704]LogStaticMesh: Building static mesh SM_GasCylinder01B...
+[2020.07.24-17.58.40:249][704]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1515
+[2020.07.24-17.58.40:249][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1505
+[2020.07.24-17.58.40:249][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1495
+[2020.07.24-17.58.40:249][704]LogStaticMesh: Built static mesh [0.10s] /Game/ScienceLab/Meshes/ScientificDevice/ChemicalContainer/SM_GasCylinder01B.SM_GasCylinder01B
+[2020.07.24-17.58.40:311][704]LogStaticMesh: Building static mesh SM_GasCylinder02...
+[2020.07.24-17.58.41:160][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1485
+[2020.07.24-17.58.41:160][704]LogStaticMesh: Built static mesh [0.85s] /Game/ScienceLab/Meshes/ScientificDevice/ChemicalContainer/SM_GasCylinder02.SM_GasCylinder02
+[2020.07.24-17.58.41:190][704]LogStaticMesh: Building static mesh SM_GasCylinder03B...
+[2020.07.24-17.58.41:272][704]LogStaticMesh: Built static mesh [0.08s] /Game/ScienceLab/Meshes/ScientificDevice/ChemicalContainer/SM_GasCylinder03B.SM_GasCylinder03B
+[2020.07.24-17.58.41:275][704]LogStaticMesh: Building static mesh SM_GasDynamicTrap1...
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1475
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1465
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1455
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1445
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1435
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1425
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1415
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1405
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1395
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1385
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1375
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1365
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1355
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1345
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1335
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1325
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1315
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1305
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1295
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1285
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1275
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1265
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1255
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1245
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1235
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1225
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1215
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1205
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1195
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1185
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1175
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1165
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1155
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1145
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1135
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1125
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1115
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1105
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1095
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1085
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1075
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1065
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1055
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1045
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1035
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1025
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1015
+[2020.07.24-17.59.18:543][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1005
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 995
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 985
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 975
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 965
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 955
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 945
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 935
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 925
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 915
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 905
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 895
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 885
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 875
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 865
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 855
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 845
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 835
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 825
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 815
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 805
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 795
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 785
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 775
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 765
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 755
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 745
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 735
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 725
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 715
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 705
+[2020.07.24-17.59.18:544][704]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 695
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 685
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 675
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 665
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 655
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 645
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 635
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 625
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 615
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 605
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 595
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 585
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 575
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 565
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 555
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 545
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 535
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 525
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 515
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 505
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 495
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 485
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 475
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 465
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 455
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 445
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 435
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 425
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 415
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 405
+[2020.07.24-17.59.18:545][704]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 395
+[2020.07.24-17.59.18:545][704]LogStaticMesh: Built static mesh [37.27s] /Game/ScienceLab/Meshes/ScientificDevice/GasDynamicTrap/SM_GasDynamicTrap1.SM_GasDynamicTrap1
+[2020.07.24-17.59.19:074][704]LogStaticMesh: Building static mesh SM_GasDynamicTrap1_part1...
