@@ -3,7 +3,7 @@ Showing the growth in population within the years in a VR experience
 
 ## Concept
 <p align="center">
-  <img src="Images/One pager.jpg">
+  <img src="Images/OnePager">
 </p> 
 
 Interactive pop ups provide historical information for the user to know what and and what time influenced the population growth or decline.
